@@ -1,3 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/05d83ebb-6ab5-418f-ba95-be957de45470/deploy-status)](https://app.netlify.com/sites/sort-tables-poc/deploys)
+
+## Proof of concept - advanced sorting tables
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
